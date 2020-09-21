@@ -1,6 +1,9 @@
 # Zindi-Hackathon-Winning-Solution
 
-This repo contains the Algebras' (Shane Weisz and Ryan Anderson) winning solution for the *UCT Datathon: The Ultimate Hacking Challenge*, hosted by Zindi. Here is the problem description:
+This repo contains the Algebras' (Shane Weisz and Ryan Anderson) winning solution for the *UCT Datathon: The Ultimate Hacking Challenge*, hosted by Zindi.
+
+## Problem Description
+
 
 Recently, there has been an increase in the number of building collapse in Lagos and major cities in Nigeria. Olusola Insurance Company offers a building insurance policy that protects buildings against damages that could be caused by a fire or vandalism, by a flood or storm.
 
